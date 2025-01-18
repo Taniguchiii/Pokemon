@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&display=swap');
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-size: 35px;
+}
+
+.inicio {
+    text-align: center;
+}
+
+h1,
+h2,
+a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+
+
+.Moltres {
+    color: #ca0808;
+    background-color: #f06965;
+    text-align: center;
+    border: 5px solid red;
+}
+
+.Zapdos {
+    color: #f09e17;
+    text-align: center;
+    background-color: #fdf890;
+    border-style: solid;
+    border-width: 5px;
+    border-color: yellow;
+}
+
+.Articuno {
+    color: blue;
+    text-align: center;
+    background-color: #8bd0fa;
+    border: solid;
+    color: blue;
+    border-width: 5px;
+}
+
+p {
+    line-height: 25px;
+    font-size: 20px;
+
+}

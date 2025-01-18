@@ -1,0 +1,57 @@
+.Iniciais {
+    color: yellow;
+    background-color: black;
+    font-size: 40px;
+}
+
+header,
+.Pokebolla {
+    background-image: url('ImgPoke/Pokebola.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.Lenda {
+    color: yellow;
+    background-color: black;
+    text-align: center;
+    font-size: 40px;
+
+}
+
+h1 {
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+a {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+p {
+    line-height: 25px;
+    font-size: 20px;
+}
+
+.Planta {
+    background-color: #1ced5b;
+    border: green solid;
+}
+
+.Fogo {
+    background-color: red;
+
+}
+
+.Agua {
+    background-color: #3da8ca;
+    border: blue solid;
+}
+
+.Agua,
+.Fogo,
+.Planta {
+    color: black;
+}
